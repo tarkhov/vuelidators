@@ -1,2 +1,2 @@
 # vuelidators
-Alternative validators for vuelidate form module.
+Alternative validators for Vuelidate form module.
