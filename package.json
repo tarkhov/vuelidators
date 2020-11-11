@@ -1,0 +1,27 @@
+{
+  "name": "vuelidators",
+  "description": "Alternative validators for Vuelidate form module.",
+  "version": "0.1.0",
+  "keywords": [
+    "js",
+    "javascript",
+    "vuelidate",
+    "vue",
+    "vuejs",
+    "nuxt",
+    "nuxtjs"
+  ],
+  "homepage": "https://tarkhov.github.io/vuelidators/",
+  "author": "Alexander Tarkhov",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarkhov/vuelidators.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tarkhov/vuelidators/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vuelidate": "^0.7.5"
+  }
+}
